@@ -10,7 +10,7 @@ _[Wiki](https://mindustrygame.github.io/wiki)_
 _[Javadoc](https://mindustrygame.github.io/docs/)_ 
 
 ## Contributing
-
+ 
 See [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Building
